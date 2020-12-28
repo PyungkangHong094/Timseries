@@ -1,4 +1,4 @@
-# CSE353_ML: Ensemble of LSTM and ARIMA using Time Series
+# Ensemble of LSTM and ARIMA using Time Series
 
 # Introduction
 We implement our Time Series Prediction model to predict the future values for NYC taxi passengers from 2014 July to 2015 January. Each model takes training and testing data sets from NUMENTA data set and divided 80% 20% training and testing respectively.
